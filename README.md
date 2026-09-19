@@ -17,6 +17,8 @@ servers instead of the router itself.
 - **15x PCs**  3 per department across 5 departments
 - **3x Servers**  dedicated DHCP, DNS, and FTP servers on VLAN 100
 
+  <img src="file:///C:/Users/omari/OneDrive/Images/Screenshots/Capture%20d'%C3%A9cran%202026-09-19%20162907.png" alt="Texte alternatif" width="500">
+
 ## Departments & VLANs
 
 | VLAN ID | Department  | Devices          | Subnet             |
